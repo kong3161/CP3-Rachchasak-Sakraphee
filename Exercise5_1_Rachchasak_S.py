@@ -1,0 +1,6 @@
+x = int(input(':'))
+y = int(input(':'))
+print('10 + 2 =',x+y)
+print('10 - 2 =',x-y)
+print('10 * 2 =',x*y)
+print('10 / 2 =',x/y)
